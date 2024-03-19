@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.2",
           "Microsoft.Extensions.ApiDescription.Server": "8.0.0",
           "Microsoft.OpenApi": "1.6.11",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.18.1",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "Swashbuckle.AspNetCore": "6.5.0",
           "Swashbuckle.AspNetCore.Swagger": "6.5.0",
@@ -194,6 +195,7 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.18.1": {},
       "Mono.TextTemplating/2.2.1": {
         "dependencies": {
           "System.CodeDom": "4.4.0"
@@ -466,6 +468,13 @@
       "sha512": "sha512-rsX9nCtk4a/eOIzoTlu7fjXBD2Nc0XC5IRnz7q3dhGs11XuZ7vazqOBiyTkH+Y6KL2UbhilK0v4jifNEMJk0LA==",
       "path": "microsoft.openapi/1.6.11",
       "hashPath": "microsoft.openapi.1.6.11.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.18.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RtNQEQQ/bgaxzrsZEkPB+/DFaUgNiq8GtZz/R4lt+mKXPcEvEuawlbl0PB1s7ND9kvkUVZtMphPxE9Ma1VGiFg==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.18.1",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
     },
     "Mono.TextTemplating/2.2.1": {
       "type": "package",
